@@ -1,10 +1,13 @@
 # 📚 AI Study Planner Agent – Intelligent Learning Assistant
 
-AI Study Planner Agent is an **Agentic AI-powered web application** that generates personalized study schedules and dynamically adapts learning based on user level, available time, and exam deadlines. It also provides **AI-generated notes and explanations**, making it a complete smart learning assistant.
+🔗 **Live Demo:**  
+👉 https://ai-study-planner-agent-8xdixfcxco5mzg6cua6pk6.streamlit.app/
 
 ---
 
 ## 🚀 Project Objective
+
+AI Study Planner Agent is an **Agentic AI-powered web application** that generates personalized study schedules and dynamically adapts learning based on user level, available time, and exam deadlines. It also provides **AI-generated notes and explanations**, making it a complete smart learning assistant.
 
 The goal of this project is to:
 
@@ -78,6 +81,13 @@ The application behaves like an **AI study mentor** that:
 - LangChain  
 - Groq API (LLM inference)  
 - python-dotenv  
+
+---
+
+## 🌐 Live Application
+
+👉 **Try it here:**  
+https://ai-study-planner-agent-8xdixfcxco5mzg6cua6pk6.streamlit.app/
 
 ---
 
